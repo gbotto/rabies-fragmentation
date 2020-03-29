@@ -16,7 +16,7 @@ Plowright, Raina K. 1
 4. Department of Biology, Indiana University, Bloomington, IN 47405,USA
 5. Spatial Sciences Center, Department of Land Resources and Environmental Sciences, Montana State University. Bozeman, MT 59717, USA
 
-<\b> Corresponding author: <>
+<\b> Corresponding author: <\b>
 
 Germán Botto Nuñez
 Bozeman Disease Ecology Lab. Department of Microbiology and Immunology, Montana State University.
