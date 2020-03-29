@@ -21,8 +21,11 @@ Corresponding author:
 Germán Botto Nuñez
 Bozeman Disease Ecology Lab. Department of Microbiology and Immunology, Montana State University.
 109 Lewis Hall. Bozeman (MT) 59717. United States of America
+
 gbotto@fmed.edu.uy 
+
 germanbotto@gmail.com
+
 www.germanbotto.com
 
 
