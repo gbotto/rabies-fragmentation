@@ -2,7 +2,7 @@
 
 Data and analysis' scripts for the manuscript: 
 
-SYNERGIC EFFECTS OF GRASSLAND FRAGMENTATION AND TEMPERATURE ON BOVINE RABIES EMERGENCE
+# SYNERGIC EFFECTS OF GRASSLAND FRAGMENTATION AND TEMPERATURE ON BOVINE RABIES EMERGENCE
 
 Authors:
 Botto Nuñez, Germán 1,2,3
@@ -16,7 +16,7 @@ Plowright, Raina K. 1
 4. Department of Biology, Indiana University, Bloomington, IN 47405,USA
 5. Spatial Sciences Center, Department of Land Resources and Environmental Sciences, Montana State University. Bozeman, MT 59717, USA
 
-<\b> Corresponding author: <\b>
+*Corresponding author:
 
 Germán Botto Nuñez
 Bozeman Disease Ecology Lab. Department of Microbiology and Immunology, Montana State University.
@@ -29,7 +29,9 @@ germanbotto@gmail.com
 www.germanbotto.com
 
 
-CONTENTS:
+
+
+# CONTENTS:
 
 - data_preparation.R -> script with the processing of geographic information data, calculation of fragmentation metrics
 - Data_analyses_Manuscript.R -> script for the linear and spatial modeling
